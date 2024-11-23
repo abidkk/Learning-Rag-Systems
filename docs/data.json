@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "year": 2010,
+        "title": "The Compound Effect",
+        "description": "Jumpstart your income, your life, and your success with Darren Hardy's simple yet effective strategies."
+    },
+    {
+        "id": 2,
+        "year": 2012,
+        "title": "Atomic Habits",
+        "description": "James Clear reveals how tiny changes lead to remarkable results, providing tools to build good habits and break bad ones."
+    },
+    {
+        "id": 3,
+        "year": 2006,
+        "title": "The Secret",
+        "description": "Rhonda Byrne explores the law of attraction and its power to transform lives with positive thinking."
+    },
+    {
+        "id": 4,
+        "year": 2014,
+        "title": "Deep Work",
+        "description": "Cal Newport explains how focusing on cognitively demanding tasks produces better results in less time."
+    },
+    {
+        "id": 5,
+        "year": 2009,
+        "title": "Drive",
+        "description": "Daniel H. Pink explores the surprising truth about what motivates us and how intrinsic motivation leads to success."
+    }
+]
